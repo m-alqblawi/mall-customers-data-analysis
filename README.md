@@ -56,6 +56,6 @@ The "Mall_Customers" dataset consists of the following features:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mall-customers-analysis.git
-   cd mall-customers-analysis
+   git clone https://github.com/m-alqblawi/mall-customers-data-analysis.git
+   cd mall-customers-data-analysis
    ```
